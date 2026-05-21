@@ -1,27 +1,108 @@
 # Muhammad Mateen
 
-Backend-focused Full Stack Developer specializing in Laravel ecosystems and production-ready SaaS platforms.
+Backend-Focused Full Stack Developer
+
+Laravel • Vue • Inertia • MERN • Docker • REST APIs
+
+I build scalable business systems with focus on backend architecture, subscription workflows, APIs, real-time features, and production-ready deployment.
 
 ## Tech Stack
+
+### Backend
 - Laravel
 - PHP
-- MySQL/PostgreSQL
+- Node.js
+- Express.js
+- Python
+
+### Frontend
+- Vue.js
+- React.js
+- Inertia.js
+- Tailwind CSS
+- Alpine.js
+
+### Databases
+- MySQL
+- PostgreSQL
 - Redis
-- Vue + Inertia
+
+### DevOps & Tools
 - Docker
-- Tailwind
-- REST APIs
+- GitHub Actions
+- Linux
+- Nginx
+- Supervisor
+- Git
+
+---
 
 ## What I Build
-- Subscription systems
-- Delivery platforms
-- Wallet/payment systems
-- Admin dashboards
-- Queue-driven applications
-- Dockerized environments
 
-## Current Focus
-- Scalable Laravel architecture
-- CI/CD pipelines
-- Performance optimization
-- Real-time systems
+- SaaS platforms
+- Subscription management systems
+- Wallet/payment workflows
+- Delivery & rider systems
+- REST APIs
+- Real-time dashboards
+- Admin panels
+- PWA applications
+
+---
+
+## Engineering Focus
+
+- Queue-driven architecture
+- Database optimization
+- API security
+- Redis caching
+- Background job processing
+- WebSocket communication
+- Dockerized environments
+- CI/CD workflows
+
+---
+
+## Featured Projects
+
+### Subscription & Delivery SaaS
+Production-style recurring delivery system with:
+- wallet system
+- rider management
+- analytics
+- queue jobs
+- notifications
+- role permissions
+- PWA support
+
+### Inventory & Vendor API
+API-first backend with:
+- authentication
+- rate limiting
+- API versioning
+- caching
+- Swagger documentation
+- test coverage
+
+### Real-Time Delivery Tracker
+Live tracking dashboard using:
+- WebSockets
+- Redis pub/sub
+- live rider updates
+- notification system
+
+---
+
+## Current Goals
+
+- Building production-grade backend systems
+- Improving system design & architecture
+- Learning advanced scaling patterns
+- Contributing to open source
+
+---
+
+## Contact
+
+GitHub: github.com/mateen212
+Location: Lahore, Pakistan
