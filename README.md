@@ -1,16 +1,27 @@
-## Hi there 👋
+# Muhammad Mateen
 
-<!--
-**mateen212/mateen212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Full Stack Developer specializing in Laravel ecosystems and production-ready SaaS platforms.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Laravel
+- PHP
+- MySQL/PostgreSQL
+- Redis
+- Vue + Inertia
+- Docker
+- Tailwind
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+- Subscription systems
+- Delivery platforms
+- Wallet/payment systems
+- Admin dashboards
+- Queue-driven applications
+- Dockerized environments
+
+## Current Focus
+- Scalable Laravel architecture
+- CI/CD pipelines
+- Performance optimization
+- Real-time systems
